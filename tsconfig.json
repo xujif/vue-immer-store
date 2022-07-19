@@ -1,0 +1,21 @@
+{
+  "compileOnSave": true,
+  "exclude": [
+    "node_modules",
+    "dist",
+    "**/*.spec.ts"
+  ],
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution":"Node",
+    "rootDir": "./src",
+    "allowJs": true,
+    "outDir": "./dist",
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
