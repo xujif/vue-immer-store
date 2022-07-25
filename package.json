@@ -8,7 +8,8 @@
   "files": ["/dist", "/src"],
   "scripts": {
     "compile": "tsc",
-    "prepack": "rimraf dist && npm run compile"
+    "prepack": "rimraf dist && npm run compile",
+    "test": "echo no test"
   },
   "repository": {
     "type": "git",
