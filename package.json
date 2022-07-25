@@ -1,6 +1,6 @@
 {
   "name": "vue-immer-store",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A vue plugin that uses immer-js as vue's state manager, redo/undo is supported.",
   "main": "./dist/immer-store.js",
   "source": "./src/immer-store.js",
