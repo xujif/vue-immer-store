@@ -11,6 +11,7 @@
     "moduleResolution":"Node",
     "rootDir": "./src",
     "allowJs": true,
+    "declaration": true,
     "outDir": "./dist",
     "sourceMap": true,
     "esModuleInterop": true,
